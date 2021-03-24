@@ -16,8 +16,4 @@ input{display: block; text-align: center;
     margin-bottom: 2%; border-radius:20px;}
 
 
-#button{background-color: green; border-radius: 0;width: 20%; padding: 2%;}
-
-#button2{background-color: green; border-radius: 0;width: 20%; padding: 2%;}
-
-.dis{display: inline;}
+.buttons{display: inline;background-color: green; border-radius: 0;width: 30%; padding: 2% ; border-radius: 60px; border:2px solid black ; }
