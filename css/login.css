@@ -15,4 +15,9 @@ input{display: block; text-align: center;
     margin: 0 auto; margin-top: 2%; 
     margin-bottom: 2%; border-radius:20px;}
 
+
 #button{background-color: green; border-radius: 0;width: 20%; padding: 2%;}
+
+#button2{background-color: green; border-radius: 0;width: 20%; padding: 2%;}
+
+.dis{display: inline;}
